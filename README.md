@@ -23,3 +23,7 @@ Pull requests are welcome for major changes, please open issue discuss whatt you
 please make sure to update tests as appropriate.
 ## License
  [MIT](https://pip.com) 
+ 
+![][1]
+
+[1]: https://images-eu.ssl-images-amazon.com/images/I/510HoIR%2Bm1L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
