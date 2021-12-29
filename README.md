@@ -16,7 +16,7 @@ footbar.pluralize('word')
 footbar.pluralize('goose')
 # returns 'goose'
 footbar.singularize('phenomena')
-# returns 'pjenomena'
+# returns 'pاenomena'
 ```
 ## Contributing
 Pull requests are welcome for major changes, please open issue discuss whatt you would like to change.
